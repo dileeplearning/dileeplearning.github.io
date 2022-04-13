@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Dileep George</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an engineer, scientist, and entrepreneur working at the intersection of artficial intelligence, neuroscience, and robotics. My long-term goal is to build human-level intelligence based on the principles we learn from cognitive science and neuroscience. To this end, I co-founded Vicarious AI with Scott Phoenix. Check out our projects at &lt;a href=&#34;http://www.vicarious.com&#34;&gt;www.vicarious.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In addition to building intelligent machines, I am very excited about understanding how the brain works. Check out publications to follow recent progress.&lt;/p&gt;
+&lt;p&gt;I did my PhD at Stanford University with Dr. Bernard Widrow, one of the pioneers of neural networks. During my PhD time I co-founded Numenta with Jeff Hawkins and Donna Dubinsky. Numenta was founded in 2005, and I was the CTO when I left in 2010 to start Vicarious. In my PhD thesis I developed a hierarhical and temporal model (HTM) for vision, which formed the core Hierarchical Temporal Memory work done at Numenta up to 2010.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dileep George</title>
+      <link>/authors/dileep-george/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/dileep-george/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamie Niemasik</title>
+      <link>/authors/jamie-niemasik/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/jamie-niemasik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Hawkins</title>
+      <link>/authors/jeff-hawkins/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/jeff-hawkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Lazaro-Gredilla</title>
+      <link>/authors/miguel-lazaro-gredilla/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/miguel-lazaro-gredilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Lehrach</title>
+      <link>/authors/wolfgang-lehrach/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/wolfgang-lehrach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

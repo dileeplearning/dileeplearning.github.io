@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2020-03-08T17:06:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pubcopy/</loc>
+    <lastmod>2020-03-08T17:06:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-03-08T17:06:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pubcopy/sample_pub_2/</loc>
+    <lastmod>2020-03-08T17:06:59-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pubcopy/cognitive-maps-biorxiv/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cognitive-maps-biorxiv/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides_copy/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides_copy/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/comics_landing_page/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tweets/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_alignment/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_debate/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_definition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_dilemma/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_equivalence/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_future/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_generality/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_humility/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_inspiration/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_irrelevance/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_preface/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_reality/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_viewpoints/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_wish/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agicomics/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agi_comics/ag_accomplishment/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pubcopy/science-captcha/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cloned-hmm/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/fast-cognitive-maps/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/generative-control/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/hcn-feature-learning/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icml-process-induction/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ijcnn-bayesian/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/phd-thesis/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/plos-cortical-circuits/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/science-captcha/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/teaching-compositionality/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cortical-circuits-ccn/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dileep-george/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cortical-phenom-ccn/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/generative-shape/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jamie-niemasik/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jeff-hawkins/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pubcopy/cognitive-programs/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cognitive-programs/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bayesian-qt/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/miguel-lazaro-gredilla/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/schema-networks/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/royal_society_seq/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/smc-aaai/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bbs-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wolfgang-lehrach/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pubcopy/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+  </url>
+  
+</urlset>

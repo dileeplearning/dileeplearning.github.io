@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AGI Comics | Dileep George</title>
+    <link>/agi_comics/</link>
+      <atom:link href="/agi_comics/index.xml" rel="self" type="application/rss+xml" />
+    <description>AGI Comics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>AGI Comics</title>
+      <link>/agi_comics/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_alignment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_debate/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_debate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_definition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_definition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_dilemma/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_dilemma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_equivalence/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_equivalence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_future/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_generality/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_generality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_humility/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_humility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_inspiration/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_irrelevance/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_irrelevance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_preface/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_preface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_reality/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_viewpoints/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_viewpoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/agi_comics/ag_wish/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_wish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial General Accomplishment</title>
+      <link>/agi_comics/ag_accomplishment/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_accomplishment/</guid>
+      <description>&lt;p&gt;Most headline-generating attention-grabbing achievements in AI are in games like chess, go, and jeopardy where humans are pitted against machines. However, this belies the fact that things that are easy for humans are often the hardest thing for AI.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
