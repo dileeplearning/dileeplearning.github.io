@@ -13,6 +13,10 @@
   </url>
   
   <url>
+    <loc>/media/wsj/</loc>
+  </url>
+  
+  <url>
     <loc>/talks/lex/</loc>
   </url>
   
@@ -22,7 +26,15 @@
   </url>
   
   <url>
+    <loc>/media/cto/</loc>
+  </url>
+  
+  <url>
     <loc>/talks/cto/</loc>
+  </url>
+  
+  <url>
+    <loc>/media/wapo/</loc>
   </url>
   
   <url>
@@ -30,7 +42,15 @@
   </url>
   
   <url>
+    <loc>/media/commsense/</loc>
+  </url>
+  
+  <url>
     <loc>/talks/commsense/</loc>
+  </url>
+  
+  <url>
+    <loc>/media/brain3/</loc>
   </url>
   
   <url>
@@ -38,7 +58,15 @@
   </url>
   
   <url>
+    <loc>/media/wef_ubi/</loc>
+  </url>
+  
+  <url>
     <loc>/talks/agi_conference/</loc>
+  </url>
+  
+  <url>
+    <loc>/media/wef_sedol/</loc>
   </url>
   
   <url>
@@ -266,12 +294,17 @@
   </url>
   
   <url>
-    <loc>/talks/</loc>
+    <loc>/media/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/comics_landing_page/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media_landing_page/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -282,6 +315,11 @@
   
   <url>
     <loc>/talks_landing_page/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -673,6 +711,10 @@
   <url>
     <loc>/publication/icml-process-induction/</loc>
     <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/media/brain2/</loc>
   </url>
   
   <url>
