@@ -1071,6 +1071,20 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 &lt;h2 id=&#34;heading-1&#34;&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;A self-contained colab notebook for playing with CSCG. No install required!
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hippocampus aficionados, here is a fun colab notebook to play with cognitive maps from our sequence learning model! Learn &amp;quot;space&amp;quot; from sequences without any Euclidean assumptions, visualize graphs &amp;amp; place fields ....all in less than 5 minutes!  &lt;br&gt; &lt;a href=&#34;https://t.co/5dln0Q7e69&#34;&gt;https://t.co/5dln0Q7e69&lt;/a&gt; &lt;a href=&#34;https://t.co/FeU9L8DA9O&#34;&gt;https://t.co/FeU9L8DA9O&lt;/a&gt; &lt;a href=&#34;https://t.co/KuAW8uRNPW&#34;&gt;pic.twitter.com/KuAW8uRNPW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dileep George (@dileeplearning) &lt;a href=&#34;https://twitter.com/dileeplearning/status/1498945631615795201?ref_src=twsrc%5Etfw&#34;&gt;March 2, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;A 15-minute talk on the clone-structured graph model of hippocampus
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Want to understand how hippocampal place cells interpret space as a sequence, but got no time? See this 15-minute talk I gave at &lt;a href=&#34;https://twitter.com/hashtag/NAISys2022?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NAISys2022&lt;/a&gt; organized by &lt;a href=&#34;https://twitter.com/tyrell_turing?ref_src=twsrc%5Etfw&#34;&gt;@tyrell_turing&lt;/a&gt;, &lt;a href=&#34;https://twitter.com/doristsao?ref_src=twsrc%5Etfw&#34;&gt;@doristsao&lt;/a&gt;, and &lt;a href=&#34;https://twitter.com/TonyZador?ref_src=twsrc%5Etfw&#34;&gt;@TonyZador&lt;/a&gt;.  Includes some teaser slides about schema learning &amp;amp; PFC&lt;a href=&#34;https://t.co/cnhQALtVM5&#34;&gt;https://t.co/cnhQALtVM5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dileep George (@dileeplearning) &lt;a href=&#34;https://twitter.com/dileeplearning/status/1531445467548028928?ref_src=twsrc%5Etfw&#34;&gt;May 31, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
 &lt;li&gt;Thread about our paper on learning generative cognitive maps as higher-order graphs
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Are you skeptical about successor representations? Want to know how our new model can learn cognitive maps, context-specific representations, do transitive inference,  and flexible hierarchical planning?  &lt;a href=&#34;https://twitter.com/hashtag/tweeprint?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#tweeprint&lt;/a&gt;...(1) &lt;a href=&#34;https://twitter.com/vicariousai?ref_src=twsrc%5Etfw&#34;&gt;@vicariousai&lt;/a&gt; &lt;a href=&#34;https://twitter.com/swaroopgj?ref_src=twsrc%5Etfw&#34;&gt;@swaroopgj&lt;/a&gt; &lt;a href=&#34;https://twitter.com/rvrikhye?ref_src=twsrc%5Etfw&#34;&gt;@rvrikhye&lt;/a&gt;  &lt;a href=&#34;https://t.co/4WOiJMPBvU&#34;&gt;https://t.co/4WOiJMPBvU&lt;/a&gt; &lt;a href=&#34;https://t.co/TuUFHr27Iq&#34;&gt;https://t.co/TuUFHr27Iq&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dileep George (@dileeplearning) &lt;a href=&#34;https://twitter.com/dileeplearning/status/1203182147713978369?ref_src=twsrc%5Etfw&#34;&gt;December 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -1449,6 +1463,19 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>/agi_comics/ag_accomplishment/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/agi_comics/ag_accomplishment/</guid>
+      <description>&lt;p&gt;Things that are easy for humans are often the hardest for AI!&lt;/p&gt;
+&lt;!---
+ Most headline-generating attention-grabbing achievements in AI are in games like chess, go, and jeopardy where humans are pitted against machines. However, this #belies the fact that things that are easy for humans are often the hardest thing for AI. 
+---&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial General Accomplishment</title>
+      <link>/agi_comics/ag_dichotomy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_dichotomy/</guid>
       <description>&lt;p&gt;Things that are easy for humans are often the hardest for AI!&lt;/p&gt;
 &lt;!---
  Most headline-generating attention-grabbing achievements in AI are in games like chess, go, and jeopardy where humans are pitted against machines. However, this #belies the fact that things that are easy for humans are often the hardest thing for AI. 
