@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AGIComics | Dileep George</title>
+    <link>/tags/agicomics/</link>
+      <atom:link href="/tags/agicomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>AGIComics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>AGIComics</title>
+      <link>/tags/agicomics/</link>
+    </image>
+    
+    <item>
+      <title>Artifical General Definition</title>
+      <link>/agi_comics/ag_definition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/agi_comics/ag_definition/</guid>
+      <description>&lt;p&gt;Some definitions are very convenient&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
