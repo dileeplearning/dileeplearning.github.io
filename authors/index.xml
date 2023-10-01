@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am an engineer, scientist, and entrepreneur working on AI, neuroscience, and robotics. My goals are to understand how the brain works and to build Artificial General Intelligence (AGI). I&#39;m now at DeepMind via acquisition of Vicarious.&lt;/p&gt;
 &lt;p&gt;I like building teams to pursue challenging goals. I co-founded two companies &amp;ndash; &lt;a href=&#34;www.vicarious.com&#34;&gt;Vicarious AI&lt;/a&gt; &amp;amp; &lt;a href=&#34;www.numenta.com&#34;&gt;Numenta&lt;/a&gt;. Vicarious was recently &lt;a href=&#34;https://techcrunch.com/2022/04/22/alphabet-owned-intrinsic-is-acquiring-fellow-robotic-software-firm-vicarious/&#34;&gt;acquired by Alphabet&lt;/a&gt;: our AI+robotics business merged with &lt;a href=&#34;www.intrinsic.ai&#34;&gt;Intrinsic&lt;/a&gt;, an Alphabet company, and our research team joined DeepMind to accelerate progress toward AGI.&lt;/p&gt;
@@ -25,17 +25,17 @@
     </item>
     
     <item>
-      <title>Antoine Dedieu∗†</title>
-      <link>/authors/antoine-dedieu/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/antoine-dedieu/</guid>
+      <title>Guangyao Zhou</title>
+      <link>/authors/guangyao-zhou/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/guangyao-zhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J. Swaroop Guntupalli</title>
       <link>/authors/j.-swaroop-guntupalli/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/authors/j.-swaroop-guntupalli/</guid>
       <description></description>
     </item>
@@ -43,8 +43,24 @@
     <item>
       <title>Miguel Lazaro-Gredilla</title>
       <link>/authors/miguel-lazaro-gredilla/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>/authors/miguel-lazaro-gredilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajkumar Vasudeva Raju</title>
+      <link>/authors/rajkumar-vasudeva-raju/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/rajkumar-vasudeva-raju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoine Dedieu∗†</title>
+      <link>/authors/antoine-dedieu/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/antoine-dedieu/</guid>
       <description></description>
     </item>
     
@@ -61,14 +77,6 @@
       <link>/authors/rajeev-v.-rikye/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       <guid>/authors/rajeev-v.-rikye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guangyao Zhou</title>
-      <link>/authors/guangyao-zhou/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/guangyao-zhou/</guid>
       <description></description>
     </item>
     
