@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>My Comics</title>
+  <meta name="description" content="A fast, shareable web comics viewer." />
+  <link rel="preload" href="comics.json" as="fetch" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%230a0a0a'/><text x='50' y='62' font-size='58' fill='white' text-anchor='middle' font-family='sans-serif'>💬</text></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <h1 id="site-title">My Comics</h1>
+  </header>
+
+  <main class="viewer">
+    <div class="nav-bar">
+      <button id="prevBtn" class="nav-btn" aria-label="Previous comic" title="Previous (←)">&larr; Prev</button>
+      <div id="counter" class="counter" aria-live="polite"></div>
+      <button id="nextBtn" class="nav-btn" aria-label="Next comic" title="Next (→)">Next &rarr;</button>
+    </div>
+
+    <figure class="comic-frame">
+      <img id="comicImg" alt="" loading="eager" decoding="async" />
+      <figcaption id="caption" class="caption"></figcaption>
+    </figure>
+
+    <section class="share-row">
+      <button id="copyLinkBtn" class="share-btn" title="Copy link">Copy Link</button>
+      <a id="shareX" class="share-btn" target="_blank" rel="noopener noreferrer" aria-label="Share on X">Share on X</a>
+      <a id="shareBsky" class="share-btn" target="_blank" rel="noopener noreferrer" aria-label="Share on Bluesky">Share on Bluesky</a>
+      <a id="shareFb" class="share-btn" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook">Share on Facebook</a>
+      <a id="shareReddit" class="share-btn" target="_blank" rel="noopener noreferrer" aria-label="Share on Reddit">Share on Reddit</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <small>&copy; <span id="year"></span> Your Name</small>
+  </footer>
+
+  <script>
+    // Progressive enhancement: Register service worker if supported
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').catch(console.error);
+      });
+    }
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>

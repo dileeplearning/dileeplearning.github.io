@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "launch-day",
+    "title": "Launch Day",
+    "image": "images/comic-1.jpg",
+    "alt": "Two cats look at a laptop with confetti.",
+    "caption_md": "**Launch day.** The server is up! _Maybe_.",
+    "date": "2025-09-01",
+    "shareText": "First comic in the series."
+  },
+  {
+    "slug": "debugging",
+    "title": "Debugging",
+    "image": "images/comic-2.jpg",
+    "alt": "A programmer stares at a console full of logs.",
+    "caption_md": "When in doubt, add more `console.log`.\n\n[Subscribe](https://example.com).",
+    "date": "2025-09-02",
+    "shareText": "This one hits hard."
+  }
+]
